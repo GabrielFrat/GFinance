@@ -1,5 +1,5 @@
 # GFinance
-Arquivos de Teste do meu Projeto de TCC
+Robô Trader
 
 <p>===========================================</p>
 <h3>Olá, Estranho. Espero que esteja bem!</h3>
